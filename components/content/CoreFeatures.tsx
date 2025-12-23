@@ -46,7 +46,7 @@ const CoreFeatures: React.FC = () => {
           Build complex, interactive animations directly on the canvas with a familiar timeline interface. No need for third-party tools. Aether exports production-ready CSS animations or Framer Motion code.
         </FeatureCard>
         <FeatureCard title="One-Click Code Export">
-          Go from design to live product in seconds. Export pixel-perfect, clean, and semantic code to React, Next.js, Framer, and plain HTML/CSS. Our code generation is best-in-class, avoiding the messy output of traditional design-to-code tools.
+          Go from design to live product in seconds. Export pixel-perfect, clean code to multiple targets. Users can choose between functional React components or static HTML/CSS. The generated code includes Tailwind CSS classes where appropriate, ensuring seamless integration with React, Next.js, or Framer.
         </FeatureCard>
         <FeatureCard title="AI Accessibility Auditor">
           Our integrated AI continuously scans your design for WCAG compliance issues. It suggests improvements for color contrast, alt text, ARIA roles, and keyboard navigation, helping you build inclusive products from the start.
